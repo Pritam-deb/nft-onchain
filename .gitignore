@@ -1,0 +1,4 @@
+node_modules/
+devnet-wallet.json
+artifacts/
+dist/
